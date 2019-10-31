@@ -1,0 +1,15 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>Relate</Name>
+  <DisplayName>Relate</DisplayName>
+  <Description>Relate application</Description>
+  <Version>4.7.0</Version>
+  <ReleaseDate>2019-10-31</ReleaseDate>
+  <UpdateFile CompressedSize="122468047" OS="Any" UncompressedSize="513787883"/>
+  <DownloadableArchives>data.7z</DownloadableArchives>
+  <SHA1>766c65518a0bf13aea649e09d4d8f278b970d459</SHA1>
+ </PackageUpdate>
+</Updates>
